@@ -1,0 +1,30 @@
+* {
+    
+}
+body {
+    font-family: sans-serif;
+    margin: auto;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(228, 96, 221);
+    background-color: aquamarine;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 5px;
+}
+
+ul {
+    text-align: center;
+    padding: 1px;
+    list-style: none;
+}
+
+li {
+    padding: 4px;
+}
